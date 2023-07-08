@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="68px" viewBox="0 0 43 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>B2C10632-513E-4F36-806B-E7F4C724483A</title>
+    <defs>
+        <polygon id="path-1" points="0 5.68434189e-14 27 5.68434189e-14 27 62 0 62"></polygon>
+    </defs>
+    <g id="Easter-Eggs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Easter-Egg---Impostor-Mode---Game-Detail-Among-Us" transform="translate(-91.000000, -913.000000)">
+            <g id="Group-3-Copy" transform="translate(112.500000, 947.000000) rotate(-345.000000) translate(-112.500000, -947.000000) translate(99.000000, 916.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M20.1129696,61.9975914 C21.9465011,61.686648 15.7113743,42.5899935 17.1572433,37.1990227 C18.6028457,31.8080519 27.2055396,29.9200161 26.9962446,28.6345778 C26.7245609,26.9618106 23.9282721,29.8680636 17.1569767,26.7779193 C10.3859478,23.6875179 9.24215695,-0.20265386 7.32170803,0.00129823523 C5.40152574,0.205507521 11.3865649,19.9117036 9.37759885,25.7627883 C7.36916602,31.613873 -0.237709991,31.0485682 0.00571217474,32.6030278 C0.261398765,34.2369593 5.24742058,32.2329306 10.9197169,37.2679498 C14.0948698,40.0865008 18.5319253,62.2655839 20.1129696,61.9975914" id="Fill-1" fill="#FF0000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
