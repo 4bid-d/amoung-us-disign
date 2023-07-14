@@ -40,7 +40,10 @@
     
 } 
 .social li{
-   margin-left: 6%;
+    margin-left: 6%;
+}
+.social li i{
+    scale: 1.5;
 }
 
 .fab::before{
